@@ -1,0 +1,15 @@
+:root {
+  --horia-trasca-color: #fcfcfc;
+  --horia-bg-color: #000000;
+}
+h1 {
+  text-decoration: underline;
+}
+
+#horia-trasca {
+  color: var(--horia-trasca-color);
+}
+
+nav {
+  background-color: var(--horia-bg-color);
+}
